@@ -55,7 +55,7 @@ Page({
     })
     that.getRecommendTitlePicStr();
     wx.setNavigationBarTitle({
-      title: '果果精选',
+      title: '精选',
     })
     /*
     //调用应用实例的方法获取全局数据

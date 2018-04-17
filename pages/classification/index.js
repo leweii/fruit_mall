@@ -6,7 +6,7 @@ Page({
     onLoadStatus: true,
     indicatorDots: true,
     loadingHidden: false, // loading
-    shopLogo: 'https://cdn.it120.cc/apifactory/2017/12/08/13cf50050ade63f957450f19f0edd756.jpg',
+    shopLogo: 'https://cdn.it120.cc/apifactory/2018/04/17/e5883869fcb9db48aefb69e3028f63b4.jpg',
     shopPrompt: [],
     shopDelivery: [],
     swiperCurrent: 0,

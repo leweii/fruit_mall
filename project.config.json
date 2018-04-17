@@ -8,9 +8,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "1.6.6",
-	"appid": "wx246983b8b8332e17",
-	"projectname": "%E7%94%9C%E6%9E%9C%E6%9E%9C%E5%B0%8F%E9%93%BA-offline-minUI",
+	"libVersion": "2.0.0",
+	"appid": "wx9bfe9cfb02d8c534",
+	"projectname": "%E6%9C%AC%E7%89%A9%E8%BD%BD%E4%BD%93DEMO",
 	"condition": {
 		"search": {
 			"current": -1,
