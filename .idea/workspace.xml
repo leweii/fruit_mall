@@ -2,18 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="944e327c-cb45-4f82-aa31-e556331834b5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/choiceness/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/choiceness/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/cart-off.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/cart-off.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/cart-on.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/cart-on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/cart-on1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/classification-off.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/classification-off.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/classification-on.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/classification-on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/find-off.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/find-off.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/find-on.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/find-on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/home-off.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/home-off.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/home-on.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/home-on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/icon-aixin.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/icon-aixin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/icon-aixin1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/my-off.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/my-off.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/my-on.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/my-on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/order-off.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/order-off.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/order-on.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/order-on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/select-off.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/select-off.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav/select-on.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/nav/select-on.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/choiceness/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/choiceness/index.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/choiceness/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/choiceness/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/classification/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classification/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/start/start.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/start/start.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ucenter/feedback/feedback.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ucenter/feedback/feedback.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ucenter/location/location.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ucenter/location/location.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ucenter/location/location.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ucenter/location/location.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/ucenter/location/location.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ucenter/location/location.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/choiceness/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/choiceness/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/classification/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classification/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/classification/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/classification/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/finder/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/finder/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/finder/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/finder/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/finder/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/finder/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods-details/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods-details/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/goods-details/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods-details/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/start/start.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/start/start.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ucenter/index/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ucenter/index/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ucenter/index/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ucenter/index/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ucenter/index/index.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ucenter/index/index.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/template-cart/template-cart.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/templates/template-cart/template-cart.wxss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,52 +49,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="1star.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/1star.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="add-addr.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/add-addr.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="popup-close.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/popup-close.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="location_red_blue.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/location_red_blue.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="icon-cart.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/icon-cart.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="ico-addr.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/ico-addr.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="gou-red.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/gou-red.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="addr-line.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/addr-line.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="start.wxml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/start/start.wxml">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.wxss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/goods-details/index.wxss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="3298">
+              <caret line="194" column="17" selection-start-line="194" selection-start-column="17" selection-end-line="194" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.wxss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/classification/index.wxss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.wxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/goods-details/index.wxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
@@ -77,20 +81,44 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>shop/goods/list</find>
-      <find>register</find>
-      <find>banner</find>
-      <find>notice</find>
-      <find>https://api.it120.cc/' + app.globalData.subDomain</find>
-      <find>到店里</find>
-      <find>果果位置</find>
       <find>手机号</find>
       <find>果果快报</find>
       <find>果果</find>
       <find>欢迎光临</find>
       <find>shopLogo</find>
       <find>进入店铺</find>
+      <find>title8</find>
+      <find>rotateZ</find>
+      <find>angle</find>
+      <find>hd</find>
+      <find>transform</find>
+      <find>container</find>
+      <find>69C3AA</find>
+      <find>notice_iteml</find>
+      <find>notice_swiper</find>
+      <find>D1ECE5</find>
+      <find>rgba(105, 195, 170</find>
+      <find>find-on</find>
+      <find>快报</find>
+      <find>class=&quot;desc&quot;</find>
+      <find>cart-on1</find>
+      <find>aixin</find>
+      <find>购物车</find>
+      <find>加入购物车</find>
+      <find>cart-on.png</find>
+      <find>images/nav</find>
+      <find>images</find>
+      <find>png</find>
+      <find>shop-cart-btn</find>
+      <find>marquee</find>
     </findStrings>
+    <replaceStrings>
+      <replace>59B8F1</replace>
+      <replace>rgba(89, 184, 241</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\cn40580\Desktop\Z_ONTSOL\fruit_mall</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,11 +130,15 @@
         <option value="$PROJECT_DIR$/pages/ucenter/location/location.json" />
         <option value="$PROJECT_DIR$/pages/ucenter/feedback/feedback.wxml" />
         <option value="$PROJECT_DIR$/pages/ucenter/location/location.wxml" />
-        <option value="$PROJECT_DIR$/pages/choiceness/index.wxml" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/pages/ucenter/location/location.js" />
         <option value="$PROJECT_DIR$/pages/classification/index.js" />
         <option value="$PROJECT_DIR$/pages/start/start.wxml" />
+        <option value="$PROJECT_DIR$/pages/start/start.wxss" />
+        <option value="$PROJECT_DIR$/pages/choiceness/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/goods-details/index.wxml" />
+        <option value="$PROJECT_DIR$/pages/goods-details/index.wxss" />
+        <option value="$PROJECT_DIR$/pages/classification/index.wxss" />
       </list>
     </option>
   </component>
@@ -119,9 +151,12 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="461" />
-    <option name="y" value="-8" />
+    <option name="x" value="669" />
+    <option name="y" value="-20" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -130,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,23 +175,7 @@
             <path>
               <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
               <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="constant" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="goodsDescription" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
@@ -170,48 +188,11 @@
               <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="address-add" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="choiceness" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="order-details" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ucenter" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ucenter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="feedback" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="fruit_mall" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fruit_mall" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="ucenter" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="location" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,36 +223,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523926587867</updated>
-      <workItem from="1523926591324" duration="6453000" />
+      <workItem from="1523926591324" duration="8597000" />
+      <workItem from="1524016254095" duration="188000" />
+      <workItem from="1524038999469" duration="712000" />
+      <workItem from="1524100109046" duration="650000" />
+      <workItem from="1524106458659" duration="3835000" />
+      <workItem from="1524547835127" duration="3588000" />
+      <workItem from="1524554141936" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6453000" />
+    <option name="totallyTimeSpent" value="18218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25192943" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497309" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.30668017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32953367" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.30668017" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,19 +268,74 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pages/goods-details/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3298">
+          <caret line="194" column="17" selection-start-line="194" selection-start-column="17" selection-end-line="194" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/goods-details/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/classification/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="21" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/classification/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/classification/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="14" lean-forward="true" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/address-add/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/address-add/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/start/start.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/start/start.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/min.config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -311,49 +353,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/address-add/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="95" column="21" lean-forward="true" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/ucenter/index/index.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/backGround.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/confirm-word1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/down_w.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/left_g.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/noticePic.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/opensmall.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/run.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/up.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/wave.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ucenter/feedback/feedback.wxss">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/ucenter/feedback/feedback.wxml">
       <provider selected="true" editor-type-id="text-editor">
@@ -362,16 +367,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ucenter/feedback/feedback.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/ucenter/feedback/feedback.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -382,20 +381,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/ucenter/location/location.wxss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/ucenter/location/location.wxml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/choiceness/index.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -413,13 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/classification/index.wxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/classification/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -427,79 +409,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/goodsDescription/buy2add1red.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/pages/address-add/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="110" column="24" lean-forward="true" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/goodsDescription/fresh.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/pages/order-details/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="117" column="61" selection-start-line="117" selection-start-column="61" selection-end-line="117" selection-end-column="61" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/cart-off.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/pages/kanjia/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1392">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/cart-on.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/cart-on1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/classification-off.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/classification-on.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/find-on.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/home-on.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/my-on.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/nav/order-on.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/0.5star.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/0star.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/1star.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/add-addr.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/popup-close.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/location_red_blue.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/icon-cart.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/ico-addr.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/gou-red.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/addr-line.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/title8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/more/loading.gif">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/pages/kanjia/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/start/start.wxml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/choiceness/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="14" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/start/start.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="31" column="4" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/choiceness/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/classification/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shop-cart/index.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/shop-cart/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/goods-details/index.wxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/goods-details/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3298">
+          <caret line="194" column="17" selection-start-line="194" selection-start-column="17" selection-end-line="194" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/classification/index.wxss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
         </state>
       </provider>
     </entry>

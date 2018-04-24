@@ -37,55 +37,55 @@
   <view class="user-menu">
     <view class="item">
       <navigator url="/pages/ucenter/order-list/index" hover-class="none" class="a">
-        <wxc-icon type='feedback' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='feedback' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt">订单管理</text>
       </navigator>
     </view>
     <view class="item">
       <navigator url="/pages/select-address/index" hover-class="none" class="a">
-        <wxc-icon type='address' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='address' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt">收货地址</text>
       </navigator>
     </view>
     <view class="item no-border">
       <navigator url="/pages/ucenter/location/location" hover-class="none" class="a">
-        <wxc-icon type='location' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='location' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt">到店里</text>
       </navigator>
     </view>
     <view class="item">
       <navigator url="/pages/ucenter/mycoupons/index" hover-class="none" class="a">
-        <wxc-icon type='coupon' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='coupon' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt">优惠券</text>
       </navigator>
     </view>
     <view class="item">
       <navigator url="" hover-class="none" class="a">
-        <wxc-icon type='rate' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='rate' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt" style='color:lightgray;text-decoration: line-through;'>积分兑换</text>
       </navigator>
     </view>
     <view class="item no-border">
       <navigator url="/pages/target/index" hover-class="none" class="a">
-        <wxc-icon type='footprint' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='footprint' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt" style='color:lightgray;text-decoration: line-through;'>足迹</text>
       </navigator>
     </view>
     <view class="item item-bottom">
       <navigator url="/pages/ucenter/feedback/feedback" hover-class="none" class="a">
-        <wxc-icon type='comment' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='comment' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt">意见反馈</text>
       </navigator>
     </view>
     <view class="item item-bottom" bindtap="aboutUs">
       <navigator url="url" hover-class="none" class="a">
-        <wxc-icon type='help' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='help' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt">关于我们</text>
       </navigator>
     </view>
     <view class="item no-border-bottom" bindtap='makePhoneCall'>
       <navigator url="" hover-class="none" class="a">
-        <wxc-icon type='group' size='50' color='#69C3AA' style='margin-bottom:20rpx;'></wxc-icon>
+        <wxc-icon type='group' size='50' color='#59B8F1' style='margin-bottom:20rpx;'></wxc-icon>
         <text class="txt">联系客服</text>
       </navigator>
     </view>

@@ -23,7 +23,7 @@
   padding: 0 30rpx;
   font-size: 28rpx;
   align-items: center;
-  background: rgba(105, 195, 170, 0.3);
+  background: rgba(89, 184, 241, 0.3);
 }
 
 .list-top .label {

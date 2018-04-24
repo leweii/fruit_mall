@@ -3,7 +3,7 @@
 
 page {
   min-height: 100%;
-  background-color: rgba(105, 195, 170, 0.3);
+  background-color: rgba(89, 184, 241, 0.3);
 }
 
 .container {
@@ -25,7 +25,7 @@ page {
   justify-content: space-between;
   flex-wrap: wrap;
   line-height: 80rpx;
-  background: -webkit-linear-gradient(top, rgba(105, 195, 170, 1), rgba(105, 195, 170, 0.5));
+  background: -webkit-linear-gradient(top, rgba(89, 184, 241, 1), rgba(89, 184, 241, 0.5));
 }
 
 .notice_iteml {

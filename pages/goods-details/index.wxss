@@ -179,7 +179,6 @@ swiper-item image {
   bottom: 0;
   left: 0;
   display: flex;
-  box-shadow: 0 0 6rpx 0;
 }
 
 .footer-box .contact {
@@ -195,8 +194,8 @@ swiper-item image {
   font-size: 20rpx;
   color: #008000;
   box-sizing: border-box;
-  background: url("https://cdn.it120.cc/images/weappshop/kefu.png") no-repeat center 21rpx;
-  background-size: 55rpx auto;
+  background: url("https://cdn.it120.cc/images/weappshop/kefu.png") no-repeat center 33rpx;
+  background-size: 66rpx auto;
 }
 
 .footer-box .shop-cart-btn {
@@ -210,8 +209,8 @@ swiper-item image {
   font-size: 20rpx;
   color: #acacb7;
   box-sizing: border-box;
-  background: url("https://cdn.it120.cc/apifactory/2017/12/08/6ae9d1e9129e6c0f5531b1a9d6683283.png") no-repeat center 21rpx; /*https://cdn.it120.cc/images/weappshop/cart.png*/
-  background-size: 44rpx auto;
+  background: url("https://cdn.it120.cc/apifactory/2017/12/08/6ae9d1e9129e6c0f5531b1a9d6683283.png") no-repeat center 33rpx;
+  background-size: 66rpx auto;
 }
 
 .footer-box .shop-cart-btn .shop-num {

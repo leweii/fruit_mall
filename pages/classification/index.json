@@ -1,6 +1,6 @@
 {
   "enablePullDownRefresh": true,
-  "backgroundColor": "#69C3AA",
+  "backgroundColor": "#59B8F1",
   "usingComponents": {
     "wxc-abnor": "../../dist/packages/@minui/wxc-abnor/dist/index",
     "wxc-loadmore": "../../dist/packages/@minui/wxc-loadmore/dist/index",

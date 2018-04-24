@@ -1,7 +1,7 @@
 {
   "navigationBarTitleText": "发现优惠",
   "enablePullDownRefresh": true,
-  "backgroundColor": "#69C3AA",
+  "backgroundColor": "#59B8F1",
   "usingComponents": {
     "wxc-icon": "../../dist/packages/@minui/wxc-icon/dist/index",
     "wxc-flex": "../../dist/packages/@minui/wxc-flex/dist/index",

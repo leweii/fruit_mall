@@ -11,7 +11,7 @@ App({
       },
       success: function(res) {
         if (res.data.code == 0) {
-          wx.setStorageSync('mallName', res.data.data.value);
+          wx.setStorageSync('mallNdfdsf999959dsfdsafame', res.data.data.value);
         }
       }
     })
